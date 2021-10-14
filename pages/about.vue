@@ -14,7 +14,7 @@ export default {
                 {
                     hid: 'description',
                     name: 'description',
-                    
+                    content: 'Best place for shitty dad jokes'
                 }
             ]
         }
